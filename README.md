@@ -7,10 +7,10 @@ Actividad 8 de clases version 2
 - ![image](https://github.com/user-attachments/assets/6ad603fd-173c-4ce9-a608-e5214189add9)
 
 - codigo
-- ![image](https://github.com/user-attachments/assets/d8c9ca41-fb09-44fa-a955-e834c6b28bb4)
+- ![image](https://github.com/user-attachments/assets/8875af81-3f18-43e2-879a-4791c94ac0bc)
 
 - resultado
-- ![image](https://github.com/user-attachments/assets/6baf4638-c8b5-44b5-a61d-6d0d43be43fa)
+- ![image](https://github.com/user-attachments/assets/2b2a06a3-5536-43af-a1e8-f26009947d24)
 
 
 
